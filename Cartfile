@@ -1,1 +1,17 @@
 binary "https://raw.githubusercontent.com/erika5151/TencentOpenAPI/master/TencentOpenAPI.json"
+
+binary "https://raw.githubusercontent.com/erika5151/AFSDK/master/AFSDK.json"
+
+binary "https://raw.githubusercontent.com/erika5151/DataEyeTracking/master/DataEyeTracking.json"
+
+binary "https://raw.githubusercontent.com/erika5151/ACTReporter/master/ACTReporter.json"
+
+binary "https://raw.githubusercontent.com/erika5151/OneSignal/master/OneSignal.json"
+
+binary "https://raw.githubusercontent.com/erika5151/SpotifyiOS/master/SpotifyiOS.json"
+
+binary "https://raw.githubusercontent.com/erika5151/TalkingDataAppCpa/master/TalkingDataAppCpa.json"
+
+binary "https://raw.githubusercontent.com/erika5151/SensorsAnalyticsSDK/master/SensorsAnalyticsSDK.json"
+
+binary "https://raw.githubusercontent.com/erika5151/InMobi/master/InMobi.json"
